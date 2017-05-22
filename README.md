@@ -1,5 +1,5 @@
 # ThreeCups
-a robot that solves the classic "three cup shuffle" game!
+A robot that solves the classic "three cup shuffle" game!
 
 This is the source code for my team's CutieHack hackathon project. It is raw, a little buggy, likely unoptimized, yet works!
 
